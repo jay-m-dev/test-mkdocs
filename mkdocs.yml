@@ -9,3 +9,4 @@ theme: readthedocs
 
 nav:
   - Home: index.md
+  - Test: test.md
